@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "ee9b26060c58bb4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f490a54e117039b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c681b37c50d5a8a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Številska krožnica"
+            }
+          },
+          {
+            "id": "47e461096038a7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Predavanje 2"
+            }
+          },
+          {
+            "id": "3fbcbfbc3ea07033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Letnik 1/Semester 1/Programiranje 1/Predavanje 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Predavanje 3"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b867927d51d5c161",
+    "type": "split",
+    "children": [
+      {
+        "id": "50194733dd448b64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fddefca0ce1c03af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5458d0ea3202a197",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ca41281d8222c910",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5af4f2bbacf7fee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dd43c1d2dcf171d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "600ff208bdf776b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a29047c4e47f6776",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3cfbeba9d734bdde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d3fe803d4167fef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "73f16ca2d7550a69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "cf683f05a1fb0d53",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {},
+              "icon": "command-glyph",
+              "title": "Execution Runtimes"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "html-font-toolbar:Toggle HTML font toolbar": false
+    }
+  },
+  "active": "3fbcbfbc3ea07033",
+  "lastOpenFiles": [
+    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 3.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 2.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/32  - bitni zapis float.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Pomnilniška beseda.excalidraw.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Pomnilnik.excalidraw.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Von Neumonov model.canvas",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica 2.md",
+    "Excalidraw/Drawing 2026-10-22 14.52.26.excalidraw.md",
+    "Excalidraw/Predavanje 2 2026-10-15 14.35.28.excalidraw.md",
+    "Excalidraw/Predavanje 2 2026-10-15 16.22.35.excalidraw.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica 1.md",
+    "Excalidraw/Predavanje 3 2026-10-22 14.35.48.excalidraw.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 1.md",
+    "Letnik 1/Semester 1/Uvod v rač/Predavanje 1.md",
+    "Letnik 1/Semester 1/Programiranje 1/Predavanje 3.md",
+    "Letnik 1/Semester 1/Programiranje 1/Predavanje 2.md",
+    "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
+    "Excalidraw/Drawing 2026-10-22 11.21.57.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-09 16.46.38.excalidraw.md",
+    "Excalidraw/Von Nouman skica.excalidraw.md",
+    "Untitled.base",
+    "Untitled",
+    "Excalidraw",
+    "Letnik 1/Semester 1/Uvod v rač",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Slovarček.md",
+    "Untitled 1.canvas",
+    "Letnik 1/Semester 1/Računalniška arhitektura/INFO.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura",
+    "[[Predavanje.md",
+    "predavanje.md",
+    "Letnik 1/Semester 1/Programiranje 1",
+    "Letnik 1/Semester 1",
+    "Letnik 1",
+    "create a link.md"
+  ]
+}

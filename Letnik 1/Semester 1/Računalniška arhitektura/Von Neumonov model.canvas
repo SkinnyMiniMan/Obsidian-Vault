@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"9a74bde22bcb7b6a","type":"group","x":-220,"y":-625,"width":700,"height":250,"label":"Centralna procesna enota"},
+		{"id":"66bae2414327bef3","type":"group","x":-1060,"y":-570,"width":300,"height":300,"label":"Pomnilnik"},
+		{"id":"ed6f11f8f4881719","type":"group","x":540,"y":-480,"width":290,"height":210,"label":"Vhodno izhodne enote"},
+		{"id":"b8ff151baec0344a","type":"text","text":"**Centralna procesna enota**\n- ==🔵Programski števec==\n- ==🟠Registri==","x":-660,"y":105,"width":360,"height":140},
+		{"id":"787c0bb3c14236fc","type":"text","text":"**Pomnilnik**\n- ukazi\n- operandi","x":-1025,"y":175,"width":140,"height":140},
+		{"id":"74068899e95c856c","type":"text","text":"programski števec","x":-200,"y":-605,"width":250,"height":60,"color":"5"},
+		{"id":"e66ae15cac775b09","type":"text","text":"registri","x":-200,"y":-465,"width":250,"height":60},
+		{"id":"6aea43cc95697ccf","type":"text","text":"ALE","x":180,"y":-605,"width":250,"height":60,"color":"2"},
+		{"id":"029a8d4dd1521d0e","type":"text","text":"ukazi","x":-1040,"y":-550,"width":250,"height":60},
+		{"id":"5c76e50905aafc29","type":"text","text":"operandi","x":-1040,"y":-350,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9a68789a2a84f0ef","fromNode":"b8ff151baec0344a","fromSide":"left","toNode":"787c0bb3c14236fc","toSide":"right","color":"5"},
+		{"id":"8d3e6ef211879e33","fromNode":"787c0bb3c14236fc","fromSide":"bottom","toNode":"b8ff151baec0344a","toSide":"bottom"},
+		{"id":"755d452b6dba30b7","fromNode":"74068899e95c856c","fromSide":"left","toNode":"029a8d4dd1521d0e","toSide":"right","fromEnd":"arrow","label":"ukaz se izvede, programski števec se poveča in pokaže na naslednji ukaz"},
+		{"id":"b6943073a384a5bd","fromNode":"e66ae15cac775b09","fromSide":"left","toNode":"66bae2414327bef3","toSide":"right","label":"rezultat se iz registra shrani v operande"},
+		{"id":"29dbc4570df4ade5","fromNode":"5c76e50905aafc29","fromSide":"right","toNode":"e66ae15cac775b09","toSide":"bottom","label":"potrebne operande shrani v registre"},
+		{"id":"80aed8cdadcc409f","fromNode":"e66ae15cac775b09","fromSide":"right","toNode":"6aea43cc95697ccf","toSide":"left"},
+		{"id":"d37b1cf7b90dc1cc","fromNode":"6aea43cc95697ccf","fromSide":"bottom","toNode":"e66ae15cac775b09","toSide":"right"},
+		{"id":"d410eae90f7f9051","fromNode":"66bae2414327bef3","fromSide":"bottom","toNode":"ed6f11f8f4881719","toSide":"bottom","fromEnd":"arrow"}
+	]
+}

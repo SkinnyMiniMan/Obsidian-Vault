@@ -189,14 +189,12 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "finenotes:New notebook": false,
       "mobile:Create new note": false,
       "mobile:Open search": false,
       "mobile:Open tabs": false
     }
   },
-  "active": "942b6b6cd224057d",
+  "active": "6fe0622008a8ff28",
   "lastOpenFiles": [
     "Untitled 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",

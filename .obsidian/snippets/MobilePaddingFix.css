@@ -1,15 +1,15 @@
 /* Target the main workspace container on mobile */
 .is-mobile .workspace-split.mod-vertical.mod-root {
-    padding-bottom: 50px !important;
+    padding-bottom: 30px !important;
 }
 
 /* Force bottom padding on the editor scroll area */
 .is-mobile .cm-scroller {
-    padding-bottom: 50px !important;
+    padding-bottom: 30px !important;
 }
 
 /* Push Excalidraw bottom toolbars up above the taskbar */
 .is-mobile .excalidraw .Island,
 .is-mobile .excalidraw .App-toolbar-content {
-    margin-bottom: 50px !important;
+    margin-bottom: 30px !important;
 }

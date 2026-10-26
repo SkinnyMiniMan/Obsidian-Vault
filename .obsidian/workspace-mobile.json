@@ -174,9 +174,19 @@
           "icon": "tabs",
           "title": "Tabs"
         }
+      },
+      {
+        "id": "7bcca8db63e17870",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +206,8 @@
   },
   "active": "f80b494f2c1abd80",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica 2.md",
@@ -203,7 +215,6 @@
     "Ink/Drawing/2026.10.26 - 18.25pm.svg",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 2.md",
     "Untitled 2.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
     "Untitled 1.md",
     "Untitled.md",
     "Excalidraw/Drawing 2026-10-26 15.19.55.excalidraw.md",
@@ -238,10 +249,8 @@
     "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
     "Excalidraw/Von Nouman skica.excalidraw.md",
     "Excalidraw/Predavanje 2 2026-10-15 16.22.35.excalidraw.md",
-    "Excalidraw/Predavanje 2 2026-10-15 14.35.28.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač",
     "Letnik 1/Semester 1/Računalniška arhitektura",
-    "Letnik 1/Semester 1/Programiranje 1",
-    "Letnik 1/Semester 1"
+    "Letnik 1/Semester 1/Programiranje 1"
   ]
 }

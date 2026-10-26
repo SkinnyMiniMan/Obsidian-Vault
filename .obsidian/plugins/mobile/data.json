@@ -1,5 +1,5 @@
 {
-  "hideToolbarInFullscreen": true,
+  "hideToolbarInFullscreen": false,
   "MobileCMDEvents": {
     "fab-longpress": "command-palette:open",
     "fab-press": "file-explorer:new-file",

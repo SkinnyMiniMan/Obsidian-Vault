@@ -11,12 +11,14 @@
             "id": "f80b494f2c1abd80",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md"
+                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Vaja 1.excalidraw"
+              "icon": "lucide-file",
+              "title": "Vaja 1"
             }
           }
         ]
@@ -206,8 +208,8 @@
   },
   "active": "f80b494f2c1abd80",
   "lastOpenFiles": [
-    "Untitled.base",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
+    "Untitled.base",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica 2.md",

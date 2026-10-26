@@ -24,8 +24,13 @@
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
+<<<<<<< HEAD
   "gitServerPasswordSecret": "",
   "refreshSourceControl": true,
+=======
+  "gitServerPasswordSecret": "obsidian-git-password-3",
+  "refreshSourceControl": false,
+>>>>>>> origin/main
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,

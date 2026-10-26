@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0beb80cdeb6e68a6",
+        "id": "9f3ea8497e158516",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2aefb8f4f422af",
+            "id": "f80b494f2c1abd80",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,9 +196,14 @@
       "mobile:Open tabs": false
     }
   },
-  "active": "fa2aefb8f4f422af",
+  "active": "f80b494f2c1abd80",
   "lastOpenFiles": [
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica 2.md",
+    "Ink/Drawing/2026.10.26 - 18.25pm (2).svg",
+    "Ink/Drawing/2026.10.26 - 18.25pm.svg",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 2.md",
     "Untitled 2.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
     "Untitled 1.md",
@@ -217,17 +222,14 @@
     "Ink/Drawing/2026.10.25 - 23.53pm.svg",
     "Ink/Writing/2026.10.25 - 23.52pm.svg",
     "Ink/Writing",
-    "Ink/Drawing/2026.10.25 - 23.49pm.svg",
     "Ink/Drawing",
     "Ink",
     "Untitled",
     "Letnik 1/Semester 1/Uvod v rač/Predavanje 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica 2.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Von Neumonov model.canvas",
     "Letnik 1/Semester 1/Računalniška arhitektura/Slovarček.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 3.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 2.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Pomnilniška beseda.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Pomnilnik.excalidraw.md",
@@ -239,7 +241,6 @@
     "Excalidraw/Von Nouman skica.excalidraw.md",
     "Excalidraw/Predavanje 2 2026-10-15 16.22.35.excalidraw.md",
     "Excalidraw/Predavanje 2 2026-10-15 14.35.28.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-22 14.52.26.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač",
     "Letnik 1/Semester 1/Računalniška arhitektura",
     "Letnik 1/Semester 1/Programiranje 1",

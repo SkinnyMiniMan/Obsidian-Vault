@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "83ff98ddc6e48b75",
+        "id": "0beb80cdeb6e68a6",
         "type": "tabs",
         "children": [
           {
-            "id": "6fe0622008a8ff28",
+            "id": "fa2aefb8f4f422af",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md"
+                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Vaja 1.excalidraw"
+              "icon": "lucide-file",
+              "title": "Vaja 1"
             }
           }
         ]
@@ -194,9 +196,10 @@
       "mobile:Open tabs": false
     }
   },
-  "active": "6fe0622008a8ff28",
+  "active": "fa2aefb8f4f422af",
   "lastOpenFiles": [
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
+    "Untitled 2.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -237,7 +240,6 @@
     "Excalidraw/Predavanje 2 2026-10-15 16.22.35.excalidraw.md",
     "Excalidraw/Predavanje 2 2026-10-15 14.35.28.excalidraw.md",
     "Excalidraw/Drawing 2026-10-22 14.52.26.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-09 16.46.38.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač",
     "Letnik 1/Semester 1/Računalniška arhitektura",
     "Letnik 1/Semester 1/Programiranje 1",

@@ -3,7 +3,7 @@
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 10,
+  "autoSaveInterval": 0,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
@@ -22,17 +22,10 @@
   "rebaseAutoStash": "enabled",
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
-<<<<<<< HEAD
-  "autoBackupAfterFileChange": true,
+  "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "gitServerPasswordSecret": "",
   "refreshSourceControl": true,
-=======
-  "autoBackupAfterFileChange": false,
-  "treeStructure": false,
-  "gitServerPasswordSecret": "obsidian-git-password-2",
-  "refreshSourceControl": false,
->>>>>>> origin/main
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,

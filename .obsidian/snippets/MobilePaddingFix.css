@@ -1,0 +1,9 @@
+/* This code ONLY applies to mobile/tablet devices */
+.is-mobile body {
+    padding-bottom: 65px !important;
+}
+
+/* Adds padding specifically inside Excalidraw canvases on mobile */
+.is-mobile .excalidraw {
+    padding-bottom: 65px !important;
+}

@@ -22,10 +22,17 @@
   "rebaseAutoStash": "enabled",
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
+<<<<<<< HEAD
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "gitServerPasswordSecret": "",
   "refreshSourceControl": true,
+=======
+  "autoBackupAfterFileChange": false,
+  "treeStructure": false,
+  "gitServerPasswordSecret": "obsidian-git-password-2",
+  "refreshSourceControl": false,
+>>>>>>> origin/main
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,

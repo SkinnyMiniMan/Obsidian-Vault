@@ -1,0 +1,141 @@
+{
+  "drawAndHold": true,
+  "defaultTool": "pen",
+  "customColors": [],
+  "defaultColor": "#1a1a1a",
+  "defaultSize": 3,
+  "eraserMode": "standard",
+  "eraserSize": 24,
+  "eraserFilter": "all",
+  "lassoMode": "freehand",
+  "lassoFilter": {
+    "handwriting": true,
+    "images": true,
+    "shapes": true,
+    "arrows": true,
+    "textBoxes": true,
+    "tables": true,
+    "graphs": true
+  },
+  "highlighterAlpha": 0.4,
+  "paperWidth": 1024,
+  "newNotebookFolder": "",
+  "lastNotebookChoices": null,
+  "lastNotebookTemplate": null,
+  "recognitionProviderId": "manual",
+  "desynchronizedCanvas": true,
+  "debugHud": false,
+  "scribbleNoticeShown": false,
+  "lastSeenVersion": "2.5.0",
+  "checkForUpdates": true,
+  "llmVendor": "anthropic",
+  "llmModel": "",
+  "llmApiKey": "",
+  "llmBaseUrl": "",
+  "llmCustomApiKey": "",
+  "apiKeys": {},
+  "imageVendor": "same",
+  "imageModel": "",
+  "imageAspect": "square",
+  "askSaveChats": false,
+  "askLayout": "window",
+  "cloudConsentGiven": false,
+  "customConsentGiven": false,
+  "autoRecognize": false,
+  "textStyle": {
+    "color": "#1a1a1a",
+    "fontSize": 22
+  },
+  "textToolPinned": false,
+  "textDragSize": false,
+  "textHintShown": 0,
+  "textHintDismissed": false,
+  "penAutoShape": false,
+  "penGestures": {
+    "scribbleErase": true,
+    "scribbleErasesAll": false,
+    "circleLasso": true
+  },
+  "shapeColor": "#000000",
+  "stickerFolder": "FineNotes stickers",
+  "imagesFolder": "",
+  "recordingsFolder": "",
+  "transcriptsFolder": "",
+  "chatsFolder": "",
+  "exportsFolder": "",
+  "templateFolder": "FineNotes templates",
+  "templateGalleryUrl": "",
+  "recentColors": [],
+  "pressureWidth": false,
+  "returnToPenOnReselect": false,
+  "returnToPenAfterUse": false,
+  "fingerTapUndo": true,
+  "handwritingOnDevice": true,
+  "replayInk": true,
+  "checkHandwrittenWords": false,
+  "calcNotes": true,
+  "speechModel": "whisper-base",
+  "speechLanguage": "auto",
+  "notebookOwnFolder": true,
+  "showNewNotebookInContextMenu": true,
+  "showNewNotebookInExplorer": false,
+  "folderNotebooks": true,
+  "pageAppearance": "light",
+  "invertPdfPages": true,
+  "savedPens": [
+    {
+      "type": "ball",
+      "color": "#1971c2",
+      "size": 2
+    },
+    {
+      "type": "ball",
+      "color": "#e03131",
+      "size": 2
+    },
+    {
+      "type": "ball",
+      "color": "#2f9e44",
+      "size": 2
+    },
+    {
+      "type": "fountain",
+      "color": "#1971c2",
+      "size": 5
+    },
+    {
+      "type": "fountain",
+      "color": "#1a1a1a",
+      "size": 3
+    },
+    {
+      "type": "ball",
+      "color": "#1a1a1a",
+      "size": 1.22
+    },
+    {
+      "type": "brush",
+      "color": "#9c36b5",
+      "size": 3
+    },
+    {
+      "type": "highlighter",
+      "color": "#fab005",
+      "size": 5
+    }
+  ],
+  "toolbarItems": [
+    "select",
+    "pen",
+    "eraser",
+    "text",
+    "shape",
+    "image",
+    "pdf"
+  ],
+  "barrelButton": "erase",
+  "penCursor": "ink",
+  "straightHighlighter": true,
+  "settingsOpen": [],
+  "scribbleTipDismissed": false
+}

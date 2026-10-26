@@ -3,8 +3,8 @@
   "copyLinkToElemenetAnchorTo100": false,
   "copyFrameLinkByName": false,
   "disableDoubleClickTextEditing": false,
-  "phoneFooterSafeAreaPadding": false,
-  "tabletFooterSafeAreaPadding": false,
+  "phoneFooterSafeAreaPadding": true,
+  "tabletFooterSafeAreaPadding": true,
   "folder": "Excalidraw",
   "libraryFolderPath": "Excalidraw/Libraries",
   "libraryFileName": "local-library",
@@ -50,7 +50,7 @@
   "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
-  "desktopUIMode": "tray",
+  "desktopUIMode": "full",
   "tabletUIMode": "compact",
   "phoneUIMode": "mobile",
   "iframeMatchExcalidrawTheme": true,
@@ -58,14 +58,14 @@
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
-  "defaultPenMode": "never",
+  "defaultPenMode": "always",
   "penModeDoubleTapEraser": true,
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
-  "allowPinchZoom": false,
+  "allowPinchZoom": true,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": false,
@@ -159,10 +159,16 @@
     }
   },
   "markdownImageDeletionPreference": "ask",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Palm Guard": {
+      "Goto fullscreen?": {
+        "value": true
+      }
+    }
+  },
   "autostartScripts": {},
   "autostartScriptFailures": {},
-  "previousRelease": "2.28.1",
+  "previousRelease": "2.29.0",
   "showReleaseNotes": true,
   "useDeclarativeSettings": true,
   "excalidrawMasteryPromoCollapsed": false,

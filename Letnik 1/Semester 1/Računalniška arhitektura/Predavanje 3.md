@@ -28,7 +28,7 @@ Negativno število dobimo tako:
 Velikost po pozicijskem zapisu - ena več od največje možne zapisane vrednosti
 
 ob seštevanju (v rezultatu) upoštevamo samo toliko bitov rezultata kot jih imata vhodni spremenljivki (npr. 110 + 010 = 1000, desnega bita ne upošetevamo -> -2 +2 = 0) (PRENOS/carry)
-MOŽEN JE PRELIV (overflow) če rezultat preide čez mejo (npr. 011 + 010 = 101) prestopimo mejo med pozitivnimi in negativnimi števili, če se nam to zgodi pomeni da potrebujemo več bitov za zapis našega števila
+MOŽEN JE PRELIV (overflow) če rezultat preide čez mejo (npr. 011 + 010 = 101) prestopimo mejo med pozitivnimi in negativnimi števili, če se nam to zgodi pomeni da potrebujemo več bitov za zapis na tega števila
 PRENOS: pove, da za zapis rezultata potrebujemo en dodaten bit
 PRELIV: presopili smo mejo med + in - pri zapisu rezultata
 

@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "mobilePullAction": "ink:create-drawing-section",
+  "mobilePullAction": "ink:create-handwritten-section",
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",

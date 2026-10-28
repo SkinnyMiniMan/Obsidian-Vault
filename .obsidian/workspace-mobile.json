@@ -11,12 +11,14 @@
             "id": "c81643447db32f72",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Letnik 1/Semester 1/Uvod v rač/Vaje 3.md"
+                "file": "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Vaje 3"
+              "icon": "lucide-file",
+              "title": "Predavanje 1"
             }
           },
           {
@@ -220,15 +222,18 @@
   },
   "active": "2504038aba96149b",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
     "Letnik 1/Semester 1/Uvod v rač/Vaje 3.md",
     "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md",
+    "Letnik 1/Semester 1/Matematika/Vaje 3.md",
+    "Excalidraw/Drawing 2026-10-28 15.37.49.excalidraw.md",
+    "Letnik 1/Semester 1/Uvod v rač/Predavanje 1.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000710.jpg",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000736.jpg",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000733.jpg",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000730.jpg",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 3.md",
-    "Letnik 1/Semester 1/Matematika/Vaje 3.md",
     "Letnik 1/Semester 1/Matematika",
     "Letnik 1/Semester 1/Diskretne structure/Vaja 4.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure",
@@ -255,7 +260,6 @@
     "Ink/Writing",
     "Ink/Drawing",
     "Ink",
-    "Letnik 1/Semester 1/Uvod v rač/Predavanje 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Von Neumonov model.canvas",
     "Letnik 1/Semester 1/Računalniška arhitektura/Slovarček.md",
@@ -264,8 +268,6 @@
     "Letnik 1/Semester 1/Računalniška arhitektura/Pomnilnik.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/INFO.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/32  - bitni zapis float.md",
-    "Letnik 1/Semester 1/Programiranje 1/Predavanje 3.md",
-    "Letnik 1/Semester 1/Programiranje 1/Predavanje 2.md",
     "Letnik 1/Semester 1/Uvod v rač"
   ]
 }

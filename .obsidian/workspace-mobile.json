@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Vaje 3"
             }
+          },
+          {
+            "id": "2504038aba96149b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Predavanje 4.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,11 +218,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c81643447db32f72",
+  "active": "942b6b6cd224057d",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Uvod v rač/Vaje 3.md",
+    "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000710.jpg",
-    "Letnik 1/Semester 1/Uvod v rač/Vaje 3.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000736.jpg",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000733.jpg",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000730.jpg",

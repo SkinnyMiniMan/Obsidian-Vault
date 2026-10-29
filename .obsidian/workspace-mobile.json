@@ -11,14 +11,12 @@
             "id": "c81643447db32f72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-10-09 16.46.38.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Predavanje 1"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-09 16.46.38.excalidraw"
             }
           },
           {
@@ -27,10 +25,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md"
+                "file": "Letnik 1/Semester 1/Matematika/Vaje 3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Predavanje 4.excalidraw"
+              "title": "Vaje 3"
             }
           }
         ],
@@ -222,9 +220,10 @@
   },
   "active": "2504038aba96149b",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-09 16.46.38.excalidraw.md",
     "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
     "Letnik 1/Semester 1/Uvod v rač/Vaje 3.md",
-    "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md",
     "Letnik 1/Semester 1/Matematika/Vaje 3.md",
     "Excalidraw/Drawing 2026-10-28 15.37.49.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač/Predavanje 1.md",
@@ -267,7 +266,6 @@
     "Letnik 1/Semester 1/Računalniška arhitektura/Pomnilniška beseda.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Pomnilnik.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/INFO.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/32  - bitni zapis float.md",
     "Letnik 1/Semester 1/Uvod v rač"
   ]
 }

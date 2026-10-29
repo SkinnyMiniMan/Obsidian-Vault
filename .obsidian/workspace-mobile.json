@@ -23,12 +23,14 @@
             "id": "2504038aba96149b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Letnik 1/Semester 1/Matematika/Vaje 3.md"
+                "file": "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Vaje 3"
+              "icon": "lucide-file",
+              "title": "Predavanje 1"
             }
           }
         ],
@@ -214,17 +216,18 @@
       "obsidian-git:Open Git source control": false,
       "mobile:Create new note": false,
       "mobile:Open search": false,
-      "mobile:Open tabs": false,
-      "obsidian-kanban:Create new board": false
+      "mobile:Open tabs": false
     }
   },
   "active": "2504038aba96149b",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Matematika/Vaje 3.md",
+    "Letnik 1/Semester 1/Programiranje 1/Predavanje 4.md",
+    "Untitled.md",
     "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md",
     "Excalidraw/Drawing 2026-10-09 16.46.38.excalidraw.md",
     "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
     "Letnik 1/Semester 1/Uvod v rač/Vaje 3.md",
-    "Letnik 1/Semester 1/Matematika/Vaje 3.md",
     "Excalidraw/Drawing 2026-10-28 15.37.49.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač/Predavanje 1.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files",
@@ -246,7 +249,6 @@
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 2.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Excalidraw/Drawing 2026-10-26 15.19.55.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.svg",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.md",
@@ -265,7 +267,6 @@
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Pomnilniška beseda.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Pomnilnik.excalidraw.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/INFO.md",
     "Letnik 1/Semester 1/Uvod v rač"
   ]
 }

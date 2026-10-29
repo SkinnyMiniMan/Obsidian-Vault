@@ -3,7 +3,7 @@
 		<a class="internal-link" href="predavanje 2">◀ Prejšnje predavanje</a>
 	</div> 
 	<div style="float: right;"> 
-		<a class="internal-link" href="predavanje 3">Naslednje predavanje ▶</a> 
+		<a class="internal-link" href="predavanje 4">Naslednje predavanje ▶</a> 
 	</div> 
 	<div style="clear: both;"></div>
 </div>

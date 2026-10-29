@@ -23,7 +23,7 @@
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 2,
-    "spacing": 0,
+    "spacing": 64,
     "buttonWidth": 48,
     "columnLayout": false,
     "mappedIcons": [],

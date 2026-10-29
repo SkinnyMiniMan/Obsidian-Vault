@@ -10,3 +10,10 @@
 
 <span style="font-size:2em">Funkcije</span>
 
+```python
+def delitelji(n: int) -> list:
+def delitelji(n: int) -> list[int]:
+```
+
+: int -> pričakuje int
+-> list --> vrne seznam

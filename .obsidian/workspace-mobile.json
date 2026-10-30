@@ -13,10 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 4.excalidraw.md"
+                "file": "Letnik 1/Semester 1/Diskretne structure/Predavanje 4.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Predavanje 4.excalidraw"
+              "title": "Predavanje 4"
+            }
+          },
+          {
+            "id": "d369f4134af1fc70",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Letnik 1/Semester 1/Diskretne structure/1793345284551_dsvsp-predavanja_4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1793345284551_dsvsp-predavanja_4"
             }
           }
         ]
@@ -206,8 +218,12 @@
   },
   "active": "c81643447db32f72",
   "lastOpenFiles": [
-    "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 4.excalidraw.md",
+    "Letnik 1/Semester 1/Diskretne structure/1793345284551_dsvsp-predavanja_4.pdf",
+    "Letnik 1/Semester 1/Diskretne structure/Predavanje 4.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
     "Excalidraw/Drawing 2026-10-29 14.44.23.excalidraw.md",
     "Excalidraw/Drawing 2026-10-29 14.21.52.excalidraw.md",
     "Letnik 1/Semester 1/Matematika/Vaje 3.md",
@@ -234,8 +250,6 @@
     "Ink/Drawing/2026.10.26 - 18.25pm (2).svg",
     "Ink/Drawing/2026.10.26 - 18.25pm.svg",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 2.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "Excalidraw/Drawing 2026-10-26 15.19.55.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.svg",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.md",
@@ -249,9 +263,6 @@
     "Ink/Drawing",
     "Ink",
     "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Von Neumonov model.canvas",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Slovarček.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 1.md",
-    "Letnik 1/Semester 1/Uvod v rač"
+    "Letnik 1/Semester 1/Računalniška arhitektura/Von Neumonov model.canvas"
   ]
 }

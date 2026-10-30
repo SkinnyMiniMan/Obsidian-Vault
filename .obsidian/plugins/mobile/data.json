@@ -9,7 +9,7 @@
   "showCommandConfirmation": true,
   "homeFolder": "",
   "showToolbars": true,
-  "showFAB": true,
+  "showFAB": false,
   "gestureCommands": [],
   "minGestureLength": 20,
   "toolbars": [

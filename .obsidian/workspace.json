@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Letnik 1/Semester 1/Programiranje 1/Predavanje 4.md",
+                "file": "Letnik 1/Semester 1/Uvod v rač/Predavanje 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Predavanje 4"
+              "title": "Predavanje 1"
             }
           }
         ],
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Letnik 1/Semester 1/Programiranje 1/Predavanje 4.md",
+                "file": "Letnik 1/Semester 1/Uvod v rač/Predavanje 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,17 +236,23 @@
   },
   "active": "82c7cf754b349a73",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-10-22 14.52.26.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-26 15.19.55.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-28 15.37.49.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-29 14.21.52.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-29 14.44.23.excalidraw.md",
+    "Excalidraw/Predavanje 2 2026-10-15 14.35.28.excalidraw.md",
+    "Excalidraw/Predavanje 2 2026-10-15 16.22.35.excalidraw.md",
+    "Letnik 1/Semester 1/Uvod v rač/Predavanje 1.md",
+    "Letnik 1/Semester 1/Uvod v rač/Vaje 3.md",
+    "Letnik 1/Semester 1/Programiranje 1/Predavanje 4.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 4.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 4.md",
     "Letnik 1/Semester 1/Diskretne structure/1793345284551_dsvsp-predavanja_4.pdf",
-    "Excalidraw/Drawing 2026-10-29 14.44.23.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-29 14.21.52.excalidraw.md",
     "Letnik 1/Semester 1/Programiranje 1/Predavanje 3.md",
-    "Letnik 1/Semester 1/Programiranje 1/Predavanje 4.md",
     "Untitled.md",
-    "Letnik 1/Semester 1/Uvod v rač/Vaje 3.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000736.jpg",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000733.jpg",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000730.jpg",
@@ -256,7 +263,6 @@
     "Letnik 1/Semester 1/Matematika",
     "Letnik 1/Semester 1/Diskretne structure/Vaja 4.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure",
-    "Excalidraw/Drawing 2026-10-28 15.37.49.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
     "Untitled.base",
     "Ink/Drawing/2026.10.26 - 18.25pm.svg",
@@ -275,12 +281,7 @@
     "Excalidraw/Scripts/Downloaded/Palm Guard.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Drawing 2026-10-26 15.19.55.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 3.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 2.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/32  - bitni zapis float.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Pomnilniška beseda.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Von Neumonov model.canvas",
     "Untitled 1.canvas"
   ]

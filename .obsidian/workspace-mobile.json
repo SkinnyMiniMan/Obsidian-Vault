@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4c8ef860d4aa8a95",
+        "id": "cf54b52ed1020ad1",
         "type": "tabs",
         "children": [
           {
-            "id": "c81643447db32f72",
+            "id": "9b9eedb43c62eecc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-10-22 14.52.26.excalidraw.md"
+                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-22 14.52.26.excalidraw"
-            }
-          },
-          {
-            "id": "d369f4134af1fc70",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Letnik 1/Semester 1/Diskretne structure/1793345284551_dsvsp-predavanja_4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1793345284551_dsvsp-predavanja_4"
+              "title": "Vaja 1.excalidraw"
             }
           }
         ]
@@ -217,12 +205,16 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "c81643447db32f72",
+  "active": "9b9eedb43c62eecc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-11-03 08.16.19.excalidraw.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
+    "Excalidraw/Drawing 2026-11-02 08.31.21.excalidraw.md",
+    "Letnik 1/Semester 1/Diskretne structure/1793345284551_dsvsp-predavanja_4.pdf",
+    "Excalidraw/Drawing 2026-10-22 14.52.26.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 4.md",
     "Letnik 1/Semester 1/Diskretne structure/Vaja 4.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 4.excalidraw.md",
-    "Letnik 1/Semester 1/Diskretne structure/1793345284551_dsvsp-predavanja_4.pdf",
     "Untitled 2.md",
     "Untitled 1.md",
     "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
@@ -245,7 +237,6 @@
     "Letnik 1/Semester 1/Diskretne structure",
     "Untitled Kanban.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
     "Untitled.base",
     "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica 2.md",
     "Ink/Drawing/2026.10.26 - 18.25pm (2).svg",
@@ -255,7 +246,6 @@
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.svg",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.md",
     "Excalidraw/Scripts/Downloaded/Palm Guard.svg",
-    "Excalidraw/Scripts/Downloaded/Palm Guard.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Ink/Writing/2026.10.26 - 7.21am.svg",
@@ -263,7 +253,6 @@
     "Ink/Writing",
     "Ink/Drawing",
     "Ink",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Von Neumonov model.canvas"
   ]
 }

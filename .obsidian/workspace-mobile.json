@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "57d34a279d26ef60",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Letnik 1/Semester 1/Diskretne structure/Vaja 5.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vaja 5.excalidraw"
+            }
+          },
+          {
             "id": "df5126da2091a16d",
             "type": "leaf",
             "state": {
@@ -218,9 +230,10 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "df5126da2091a16d",
+  "active": "942b6b6cd224057d",
   "lastOpenFiles": [
     "Excalidraw/Pomembno datumi.excalidraw.md",
+    "Letnik 1/Semester 1/Diskretne structure/Vaja 5.excalidraw.md",
     "Letnik 1/Semester 1/Matematika/Vaje 4.excalidraw.md",
     "Excalidraw/Drawing 2026-10-26 15.19.55.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
@@ -254,7 +267,6 @@
     "Untitled Kanban.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.md",
     "Untitled.base",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica 2.md",
     "Ink/Drawing/2026.10.26 - 18.25pm (2).svg",
     "Ink/Drawing/2026.10.26 - 18.25pm.svg",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.svg",

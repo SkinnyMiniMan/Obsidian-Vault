@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cf54b52ed1020ad1",
+        "id": "36204b7cb5390bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "9b9eedb43c62eecc",
+            "id": "c14f53bf13b58b7b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md"
+                "file": "Excalidraw/Pomembno datumi.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Vaja 1.excalidraw"
+              "title": "Pomembno datumi.excalidraw"
+            }
+          },
+          {
+            "id": "df5126da2091a16d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Letnik 1/Semester 1/Matematika/Vaje 4.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vaje 4.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +218,13 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "9b9eedb43c62eecc",
+  "active": "942b6b6cd224057d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-11-03 08.16.19.excalidraw.md",
+    "Excalidraw/Pomembno datumi.excalidraw.md",
+    "Letnik 1/Semester 1/Matematika/Vaje 4.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-26 15.19.55.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
+    "Excalidraw/Drawing 2026-11-03 08.16.19.excalidraw.md",
     "Excalidraw/Drawing 2026-11-02 08.31.21.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/1793345284551_dsvsp-predavanja_4.pdf",
     "Excalidraw/Drawing 2026-10-22 14.52.26.excalidraw.md",
@@ -241,10 +257,7 @@
     "Letnik 1/Semester 1/Računalniška arhitektura/Številska krožnica 2.md",
     "Ink/Drawing/2026.10.26 - 18.25pm (2).svg",
     "Ink/Drawing/2026.10.26 - 18.25pm.svg",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 2.md",
-    "Excalidraw/Drawing 2026-10-26 15.19.55.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.svg",
-    "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.md",
     "Excalidraw/Scripts/Downloaded/Palm Guard.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",

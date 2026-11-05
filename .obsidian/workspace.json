@@ -219,6 +219,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "handwriting-latex:Handwriting to LaTeX": false,
       "mobile:Create new note": false,
       "mobile:Open search": false,
       "mobile:Open tabs": false,

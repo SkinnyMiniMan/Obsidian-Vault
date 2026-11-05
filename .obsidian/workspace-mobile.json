@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c14f53bf13b58b7b",
+            "id": "c6f6750037fd0d8d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md"
+                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 4.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Predavanje 4.excalidraw"
             }
           },
           {
-            "id": "ee2de510d222f6bb",
+            "id": "985165fbe69af9ee",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Letnik 1/Semester 1/Matematika/Predavanje 5.excalidraw.md"
+                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Predavanje 5.excalidraw"
@@ -218,10 +218,13 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "ee2de510d222f6bb",
+  "active": "985165fbe69af9ee",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 4.excalidraw.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5.excalidraw.md",
     "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md",
     "Letnik 1/Semester 1/Matematika/Predavanje 5.excalidraw.md",
+    "Letnik 1/Semester 1/Programiranje 1/Predavanje 5.md",
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -244,10 +247,7 @@
     "Excalidraw/Drawing 2026-10-22 14.52.26.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 4.md",
     "Letnik 1/Semester 1/Diskretne structure/Vaja 4.excalidraw.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 4.excalidraw.md",
     "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
-    "Letnik 1/Semester 1/Matematika/Vaje 3.md",
-    "Letnik 1/Semester 1/Programiranje 1/Predavanje 4.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000710.jpg",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000736.jpg",

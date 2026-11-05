@@ -96,4 +96,21 @@ del imena[2] -> pobriše element na indeksu 2, ni funckija, je operator
 
 Če brišeš elemente v seznamu pojdi od konca proti začetku (če uporabljaš range)
 ali
-uporabi while (while i < len(osebe)) in ne prištej 
+uporabi while (while i < len(osebe)) in ne prištej i += 1  ko brišemo
+
+imena.insert(1, "Helga") -> na ideks 1 doda "Helga", počasno
+
+imena[::1] -> obrne seznam
+imea.reverse() -> obrne seznam (neka razlika je, Nikolaju ne dela)
+
+imena.sort() -> sortira od najmanjše do največje
+imena.sort(reverse=True) -> sortira padajoče
+imena.sort(key=len) -> glede na dolžino
+```python
+def ajev(s):
+	return -s.lower().count("a")
+```
+imena.sort(key=ajev)
+
+imena.shuffle() -> jih shufflea
+sorted() -> vrne sorted ampak ne spremeni seznama

@@ -45,5 +45,28 @@ niz
 .count("pač") -> prešteje vse pojave črk "pač" (tudi če so znotraj besede)
 .split().count("pač") -> prešteje besede pač
 
-.split() deli glede na beli prostor, lahko mu damo 
+.split() deli glede na beli prostor, lahko mu damo argument
+.split(", ") deli glede na vejice
+NE PISATI .split(" ") -> ni dobro, ker se drugače obnaša, najde prazne nize
 
+" in ".join(imena) -> "Ana in Berta in Cilka in Dani" -> združi elemente seznama in med elemente da in
+UPORABNO:
+```python
+", ".join(imena)
+", ".join(imena[:-1]) + " in " + imena[-1]
+```
+
+.replace("min", "max") -> Benjamin postane Benjamax, ampak ne spremeni niza, le vrne eno nov niz
+ime = ime.replace("min", "max")
+
+s.replace("  ", " ") -> zamenja dva presledka z enim, lazy rešitev:
+s.replace("  ", " ").replace("  ", " ").replace("  ", " ").replace("  ", " ").replace("  ", " ") -> če imamo veliko nepotrebinih presledkov (do 32), jih bo spremenilo v enojne
+
+"".join(imena) -> več imen v seznamu združi v en niz
+
+.endswith(".mov") -> uporabno za file types
+.startswith() -> preveri s čim se začne
+
+help(str) -> pomoč (dokumentacija)
+
+NA IZPITU IMAMO LAHKO VSO LITERATURO oz. DOKUMENTACIJO ZA PYTHON, tako da nam tega tega ni treba znat, le zavedat se moram da obstaja

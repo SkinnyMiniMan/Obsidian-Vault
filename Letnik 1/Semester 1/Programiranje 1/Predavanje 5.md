@@ -70,3 +70,30 @@ s.replace("  ", " ").replace("  ", " ").replace("  ", " ").replace("  ", " ").re
 help(str) -> pomoč (dokumentacija)
 
 NA IZPITU IMAMO LAHKO VSO LITERATURO oz. DOKUMENTACIJO ZA PYTHON, tako da nam tega tega ni treba znat, le zavedat se moram da obstaja
+NA IZPITU IMAMO kompletno dokumentacijo, internet bo zaprt, učilnica bo videna, gor bo pdf z kompletno dokumentacijo pythona (2353 strni btw), rešitve vseh domačih nalog....
+
+Metode seznamov (seznami se dajo spreminjat, nizi pa ne)
+.append("Ema") -> doda 1 element na konec seznama
+.extend(["Fanči", "Greta"]) -> doda 2 stvari; isto kot imena += ["Fanči", "Greta"]
+.append(["Fanči", "Greta"]) -> doda seznam na konec seznama
+imena += "Jana" -> doda črke J, a, n, a; extend dela isto;
+imena += ["Jana"] -> doda en element na konec; isto kot append (raje uporabi append)
+
+.count() -> isto kot pri nizih
+
+.find() ne obstaja pri seznamih le **.index()**
+če ima seznam več istih spremenljivk, potem vrne prvo ki se ujema argumentu
+.index() je počasen :(
+.index() slander :(
+
+.remove() -> uporabimo ko ne vemo kje je stvar ki jo želimo pobrisat in/ali nam je vseeno katero od ponovitev izbrišemo
+.pop() -> vrne zadnje ime in ga pobriše
+.pop(1) -> vrne in izbriše na indeksu 1
+del imena[2] -> pobriše element na indeksu 2, ni funckija, je operator
+
+.remove() -> zahteva elemnt
+.pop() in del potrebujeta indeks
+
+Če brišeš elemente v seznamu pojdi od konca proti začetku (če uporabljaš range)
+ali
+uporabi while (while i < len(osebe)) in ne prištej 

@@ -13,26 +13,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 4.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Predavanje 4.excalidraw"
-            }
-          },
-          {
-            "id": "985165fbe69af9ee",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Predavanje 5.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +205,11 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "985165fbe69af9ee",
+  "active": "c6f6750037fd0d8d",
   "lastOpenFiles": [
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 4.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5.excalidraw.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5.excalidraw.png",
     "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md",
     "Letnik 1/Semester 1/Matematika/Predavanje 5.excalidraw.md",
     "Letnik 1/Semester 1/Programiranje 1/Predavanje 5.md",
@@ -247,7 +235,6 @@
     "Excalidraw/Drawing 2026-10-22 14.52.26.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 4.md",
     "Letnik 1/Semester 1/Diskretne structure/Vaja 4.excalidraw.md",
-    "Letnik 1/Semester 1/Programiranje 1/Predavanje 1.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000710.jpg",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000736.jpg",
@@ -263,7 +250,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Ink/Writing/2026.10.26 - 7.21am.svg",
-    "Ink/Drawing/2026.10.26 - 7.20am.svg",
     "Ink/Writing",
     "Ink/Drawing",
     "Letnik 1/Semester 1/Računalniška arhitektura/Von Neumonov model.canvas"

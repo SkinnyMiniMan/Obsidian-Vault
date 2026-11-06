@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "Predavanje 5.excalidraw"
             }
+          },
+          {
+            "id": "90c457fc3ec0d18e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Letnik 1/Semester 1/Diskretne structure/Predavanje 4.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Predavanje 4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,13 +230,14 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "daecbd66bf6d595b",
+  "active": "90c457fc3ec0d18e",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Diskretne structure/Predavanje 5.excalidraw.md",
+    "Excalidraw/Turingova koza.excalidraw.png",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5.excalidraw.md",
     "Excalidraw/Von Nouman skica.excalidraw.md",
     "Excalidraw/Predavanje 2 2026-10-15 16.22.35.excalidraw.md",
     "Excalidraw/Turingova koza.excalidraw.md",
-    "Excalidraw/Turingova koza.excalidraw.png",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 4.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5.excalidraw.png",
     "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md",
@@ -248,7 +261,6 @@
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/1793345284551_dsvsp-predavanja_4.pdf",
     "Excalidraw/Drawing 2026-10-22 14.52.26.excalidraw.md",
-    "Letnik 1/Semester 1/Diskretne structure/Predavanje 4.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000710.jpg",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000736.jpg",

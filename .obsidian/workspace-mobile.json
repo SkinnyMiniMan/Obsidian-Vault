@@ -18,8 +18,33 @@
               "icon": "excalidraw-icon",
               "title": "Predavanje 5.excalidraw"
             }
+          },
+          {
+            "id": "9a198bb2d1423281",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vaja 1.excalidraw"
+            }
+          },
+          {
+            "id": "1ca6626963cbf828",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 3.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vaja 3.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,12 +230,14 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "90c457fc3ec0d18e",
+  "active": "1ca6626963cbf828",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 3.excalidraw.md",
+    "Letnik 1/Semester 1/Diskretne structure/Predavanje 5.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files/Predikatni_dsvsp-predavanja_4.pdf",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files/dsvsp-predavanja_mnozice.pdf",
-    "Letnik 1/Semester 1/Diskretne structure/Predavanje 5.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Vaja 5.excalidraw.md",
     "Untitled.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 4.md",
@@ -237,7 +264,6 @@
     "Excalidraw/Drawing 2026-11-02 08.31.21.excalidraw.md",
     "Excalidraw/Drawing 2026-11-03 08.16.19.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/Vaje 5_b39af42e8af987658d62e0de9d52f115.pdf",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000710.jpg",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000736.jpg",
@@ -252,7 +278,6 @@
     "Excalidraw/Scripts/Downloaded/Palm Guard.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Ink/Writing",
     "Letnik 1/Semester 1/Računalniška arhitektura/Von Neumonov model.canvas"
   ]
 }

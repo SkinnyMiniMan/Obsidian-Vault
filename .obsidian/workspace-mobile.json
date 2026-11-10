@@ -54,9 +54,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-11-09 15.55.44.excalidraw"
             }
+          },
+          {
+            "id": "9f509b1c48a25642",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Vaja 6.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vaja 6.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,10 +254,11 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "72c6fae0daeaf1fd",
+  "active": "9f509b1c48a25642",
   "lastOpenFiles": [
-    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 3.excalidraw.md",
     "Excalidraw/Drawing 2026-11-09 15.55.44.excalidraw.md",
+    "Excalidraw/Vaja 6.excalidraw.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 3.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 5.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files/Predikatni_dsvsp-predavanja_4.pdf",
@@ -274,7 +287,6 @@
     "Excalidraw/Drawing 2026-10-28 15.37.49.excalidraw.md",
     "Excalidraw/Drawing 2026-10-29 14.21.52.excalidraw.md",
     "Excalidraw/Drawing 2026-10-29 14.44.23.excalidraw.md",
-    "Excalidraw/Drawing 2026-11-02 08.31.21.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/Vaje 5_b39af42e8af987658d62e0de9d52f115.pdf",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000710.jpg",

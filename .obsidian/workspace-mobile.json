@@ -32,55 +32,19 @@
             }
           },
           {
-            "id": "1ca6626963cbf828",
+            "id": "78945f51a12a195a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 3.excalidraw.md"
+                "file": "Excalidraw/Vaja 6.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Vaja 3.excalidraw"
-            }
-          },
-          {
-            "id": "72c6fae0daeaf1fd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-11-09 15.55.44.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-09 15.55.44.excalidraw"
-            }
-          },
-          {
-            "id": "9f509b1c48a25642",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Turingova koza.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Turingova koza.excalidraw"
-            }
-          },
-          {
-            "id": "6deee456344c6803",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Vaje X.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Vaje X.excalidraw"
+              "title": "Vaja 6.excalidraw"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -266,14 +230,16 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "6deee456344c6803",
+  "active": "78945f51a12a195a",
   "lastOpenFiles": [
-    "Excalidraw/Turingova koza.excalidraw.md",
-    "Excalidraw/Vaje X.excalidraw.md",
-    "Letnik 1/Semester 1/Diskretne structure/Vaja 6.excalidraw.md",
-    "Excalidraw/Drawing 2026-11-09 15.55.44.excalidraw.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 3.excalidraw.md",
+    "Untitled 1.md",
+    "Excalidraw/Vaja 6.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
+    "Excalidraw/Turingova koza.excalidraw.md",
+    "Letnik 1/Semester 1/Matematika/Vaje 5.excalidraw.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 3.excalidraw.md",
+    "Excalidraw/Drawing 2026-11-09 15.55.44.excalidraw.md",
+    "Letnik 1/Semester 1/Diskretne structure/Vaja 6.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 5.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files/Predikatni_dsvsp-predavanja_4.pdf",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files",
@@ -291,14 +257,12 @@
     "Letnik 1/Semester 1/Matematika/Predavanje 5.excalidraw.md",
     "Letnik 1/Semester 1/Programiranje 1/Predavanje 5.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "Letnik 1/Semester 1/Matematika/Vaje 4.excalidraw.md",
     "Excalidraw/Pomembno datumi.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač/Vaje 4.excalidraw.md",
     "Excalidraw/Predavanje 2 2026-10-15 14.35.28.excalidraw.md",
     "Excalidraw/Drawing 2026-10-26 15.19.55.excalidraw.md",
     "Excalidraw/Drawing 2026-10-28 15.37.49.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-29 14.21.52.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/Vaje 5_b39af42e8af987658d62e0de9d52f115.pdf",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000710.jpg",

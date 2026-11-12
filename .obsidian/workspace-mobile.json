@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe108108cc54dd36",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Scribbles .excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Scribbles .excalidraw"
-            }
-          },
-          {
             "id": "9f0bdd5e0c16b8df",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Predavanje 6.5.excalidraw.md"
+                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 6.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Predavanje 6.5.excalidraw"
+              "title": "Predavanje 6.excalidraw"
+            }
+          },
+          {
+            "id": "6505ccfe0cd670f8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 6.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Predavanje 6.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,9 +217,17 @@
   },
   "active": "9f0bdd5e0c16b8df",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Računalniška arhitektura/Von Neumonov model.canvas",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5.excalidraw.md",
+    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 6.excalidraw.md",
+    "Letnik 1/Semester 1/Programiranje 1/Predavanje 3.md",
+    "Untitled.base",
+    "Untitled 2.md",
     "Excalidraw/Scribbles .excalidraw.md",
-    "Excalidraw/Predavanje 6.5.excalidraw.md",
     "Letnik 1/Semester 1/Matematika/Predavanje 6.excalidraw.md",
+    "Letnik 1/Semester 1/Matematika/Vaje 3.md",
+    "Letnik 1/Semester 1/Diskretne structure/Predavanje 5.5.excalidraw.md",
+    "Letnik 1/Semester 1/Diskretne structure/Vaja 6.excalidraw.md",
     "Excalidraw/Turingova koza.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Palm Guard.md",
     "Excalidraw/Scripts/Downloaded/Palm Guard.svg",
@@ -229,7 +236,6 @@
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
     "Letnik 1/Semester 1/Matematika/Vaje 5.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 3.excalidraw.md",
-    "Letnik 1/Semester 1/Diskretne structure/Vaja 6.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 5.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files/Predikatni_dsvsp-predavanja_4.pdf",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files",
@@ -237,7 +243,6 @@
     "Letnik 1/Semester 1/Diskretne structure/Vaja 5.excalidraw.md",
     "Untitled.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 4.md",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5.excalidraw.md",
     "Excalidraw/Turingova koza.excalidraw.png",
     "Excalidraw/Von Nouman skica.excalidraw.md",
     "Excalidraw/Predavanje 2 2026-10-15 16.22.35.excalidraw.md",
@@ -245,11 +250,6 @@
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5.excalidraw.png",
     "Letnik 1/Semester 1/Matematika/Predavanje 4.excalidraw.md",
     "Letnik 1/Semester 1/Matematika/Predavanje 5.excalidraw.md",
-    "Letnik 1/Semester 1/Programiranje 1/Predavanje 5.md",
-    "Untitled 2.md",
-    "Letnik 1/Semester 1/Matematika/Vaje 4.excalidraw.md",
-    "Excalidraw/Pomembno datumi.excalidraw.md",
-    "Letnik 1/Semester 1/Uvod v rač/Vaje 4.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/Vaje 5_b39af42e8af987658d62e0de9d52f115.pdf",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000710.jpg",
@@ -258,12 +258,10 @@
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/1000000730.jpg",
     "Letnik 1/Semester 1/Matematika",
     "Letnik 1/Semester 1/Diskretne structure",
-    "Untitled.base",
     "Ink/Drawing/2026.10.26 - 18.25pm (2).svg",
     "Ink/Drawing/2026.10.26 - 18.25pm.svg",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.svg",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Letnik 1/Semester 1/Računalniška arhitektura/Von Neumonov model.canvas"
+    "Excalidraw/Scripts"
   ]
 }

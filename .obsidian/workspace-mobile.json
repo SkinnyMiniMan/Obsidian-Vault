@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Letnik 1/Semester 1/Diskretne structure/Vaja 6.excalidraw.md"
+                "file": "Letnik 1/Semester 1/Matematika/Vaje 5.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Vaja 6.excalidraw"
+              "title": "Vaje 5.excalidraw"
+            }
+          },
+          {
+            "id": "6f673be289b2159b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Vaja 7.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vaja 7.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,8 +216,11 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "ec26c6f09d0da226",
+  "active": "6f673be289b2159b",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Matematika/Vaje 5.excalidraw.md",
+    "Excalidraw/Vaja 7.excalidraw.md",
+    "Letnik 1/Semester 1/Diskretne structure/Vaja 6.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 4.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 6.excalidraw.md",
     "Pasted image 20261116155939.png",
@@ -230,13 +246,11 @@
     "Letnik 1/Semester 1/Matematika/Predavanje 6.excalidraw.md",
     "Letnik 1/Semester 1/Matematika/Vaje 3.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 5.5.excalidraw.md",
-    "Letnik 1/Semester 1/Diskretne structure/Vaja 6.excalidraw.md",
     "Excalidraw/Turingova koza.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Palm Guard.md",
     "Letnik 1/Semester 1/Uvod v rač/Vaja 6.excalidraw.md",
     "Untitled 1.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 1.excalidraw.md",
-    "Letnik 1/Semester 1/Matematika/Vaje 5.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 3.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 5.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files/Predikatni_dsvsp-predavanja_4.pdf",
@@ -246,7 +260,6 @@
     "Untitled.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 4.md",
     "Excalidraw/Von Nouman skica.excalidraw.md",
-    "Excalidraw/Predavanje 2 2026-10-15 16.22.35.excalidraw.md",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files/Vaje 5_b39af42e8af987658d62e0de9d52f115.pdf",
     "Letnik 1/Semester 1/Uvod v rač/Misc. Files",
     "Letnik 1/Semester 1/Matematika",

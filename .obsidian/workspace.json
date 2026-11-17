@@ -193,8 +193,6 @@
     "hiddenItems": {
       "handwriting-latex:Handwriting to LaTeX": false,
       "mobile:Create new note": false,
-      "mobile:Open search": false,
-      "mobile:Open tabs": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,

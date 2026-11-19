@@ -35,3 +35,7 @@ prvi, *_, zadnji = t #dobis prvega in zadnjega
 a, b, *u, c = t #u je vse med b in (6, 7)
 a, b, c, *u = t #tudi dela
 ```
+100_000_000 = 100000000
+lahko ustaviš _ zaradi berljivosti
+
+pyplot -> grafi

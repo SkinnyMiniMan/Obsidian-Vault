@@ -75,6 +75,7 @@ Ključi so lahko:
 - int
 - float
 - bool
+- str
 - tuple
 
 Vrednost je lahko karkoli
@@ -84,6 +85,48 @@ d["Ana"] = "239705723"
 ```
 Vsak ključ lahko nastopa le enkrat, če ta še ne obstaja ga doda, drugače pa ga spremeni
 
+```python
+for x in imena:
+	print(x) #Gre čez ključe, to izpiše ključe, x je ključ
+	
+#Če žečimo ime in številko
+for ime, stevilka in imena.items():
+	print(ime, stevilka)
+
+#Če želimo samo stevilke
+for stevilka in imena.values():
+	print(stevilka)
+```
+ne uporabljaj .keys() ali .get()
+
+Razlika med imena.get("Fanči") in imena["Fanči]
+	.get("Fanči") če "Fanči" ni potem vrne none
+	imena["Fanči"] če "Fanči" ni potem se program sesuje
+
+imena.get("Fanči", "neznana številka"), če "Fanči" ne obstaja potem vrne "neznana številka"
+
+še en ultra dober trik:
+```python
+I, V, X, L, C, D, M = "IVXLCDM"
+#zdaj ni treba narekovanje, ultra dober trik
+stevke = {I: 1, V: 5, X: 10, L: 50, C: 100, D: 500, M: 1000}
+```
+Default dict:
+```python
+import defaultdict#nism sigurn če je to
+f():
+	return 42
+
+d = defaultdict(f)
+print(d["Ana"]) #doda "Ana" kot ključ in mu da vrednost returna v f-ju
+```
+če seštevamo črke je uporabno, npr:
+```python
+d = defaultdict(int())
+for i in besedilo:
+	d[i] += 1
+#poglej v zapiske
+```
 
 
 

@@ -58,6 +58,32 @@ To je počasno, zato obstajajo slovarji (dict)
 Slovar:
 ```python
 imena = {"Ana": "239705723", "Dani": "905678413", "Berta": "156852347", "Cilka": "658365235"}
+imena["Ana"] #Dobis stevilko
+"Dani" in imena #True
+"Cicilija" in imena #False
+
+#ALI
+
+stevilke = {45: "petinštirideset", 100: "sto"}
+f = {print: 45}
+f = {True: "res je", False: "ni res"}
 ```
+Lahko so funkcije, številke, logične vrednosti,
+Ne morejo biti: nizi
+ključ: vrednost
+Ključi so lahko:
+- int
+- float
+- bool
+- tuple
+
+Vrednost je lahko karkoli
+```python
+d = {} #prazen slovar
+d["Ana"] = "239705723"
+```
+Vsak ključ lahko nastopa le enkrat, če ta še ne obstaja ga doda, drugače pa ga spremeni
+
+
 
 

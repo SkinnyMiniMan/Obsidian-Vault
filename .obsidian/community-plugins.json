@@ -10,5 +10,6 @@
   "excalidraw-extras",
   "mobile",
   "html-font-toolbar",
-  "handwriting-latex"
+  "handwriting-latex",
+  "execute-code"
 ]

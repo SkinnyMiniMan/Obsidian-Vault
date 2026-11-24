@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Predavanje 6.excalidraw"
             }
+          },
+          {
+            "id": "7967d7e1965682d6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Vaje.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vaje.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,11 +216,12 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "ec26c6f09d0da226",
+  "active": "7967d7e1965682d6",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Diskretne structure/Predavanje 6.excalidraw.md",
+    "Excalidraw/Vaje.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 4.excalidraw.md",
     "Excalidraw/Predavanje 7.excalidraw.md",
-    "Letnik 1/Semester 1/Diskretne structure/Predavanje 6.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5 + 6.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files/dsvsp-predavanja_relacije.pdf",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 7.excalidraw.md",

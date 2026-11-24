@@ -25,6 +25,18 @@
             "state": {
               "type": "excalidraw",
               "state": {
+                "file": "Letnik 1/Semester 1/Matematika/Vaje 7.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vaje 7.excalidraw"
+            }
+          },
+          {
+            "id": "3cc3b25e4e631156",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
                 "file": "Excalidraw/Vaje.excalidraw.md"
               },
               "icon": "excalidraw-icon",
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,12 +228,13 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "7967d7e1965682d6",
+  "active": "3cc3b25e4e631156",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Matematika/Vaje 7.excalidraw.md",
+    "Excalidraw/Vaje.excalidraw.md",
     "Pasted image 20261123155641.png",
     "Pasted image 20261123154240.png",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 6.excalidraw.md",
-    "Excalidraw/Vaje.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Vaja 4.excalidraw.md",
     "Excalidraw/Predavanje 7.excalidraw.md",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5 + 6.excalidraw.md",
@@ -244,7 +257,6 @@
     "1794562611077_Screenshot_20261113-103634~2.jpg",
     "1794562557593_Screenshot_20261113-103524~2.jpg",
     "1794561733375_Screenshot_20261113-102119~2.jpg",
-    "1794561553642_Screenshot_20261113-101728~2.jpg",
     "Ra",
     "Letnik 1/Semester 1/Uvod v rač/Vaje 3.md",
     "Letnik 1/Semester 1/Uvod v rač/Vaje 4.excalidraw.md",

@@ -20,6 +20,20 @@
             }
           },
           {
+            "id": "d9cc3dcf3dd1775d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slop"
+            }
+          },
+          {
             "id": "7967d7e1965682d6",
             "type": "leaf",
             "state": {
@@ -43,7 +57,8 @@
               "title": "Scribbles .excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,8 +242,10 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "ec26c6f09d0da226",
+  "active": "d9cc3dcf3dd1775d",
   "lastOpenFiles": [
+    "Letnik 1/Semester 1/Matematika/Predavanje 7.excalidraw.md",
+    "Slop.md",
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 6.excalidraw.md",
     "Letnik 1/Semester 1/Matematika/Vaje 7.excalidraw.md",
     "Excalidraw/Scribbles .excalidraw.md",
@@ -240,7 +257,6 @@
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 5 + 6.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files/dsvsp-predavanja_relacije.pdf",
     "Letnik 1/Semester 1/Računalniška arhitektura/Predavanje 7.excalidraw.md",
-    "Letnik 1/Semester 1/Matematika/Predavanje 7.excalidraw.md",
     "Letnik 1/Semester 1/Programiranje 1/Predavanje 6.md",
     "Letnik 1/Semester 1/Matematika/Vaja 7.excalidraw.md",
     "Excalidraw/Drawing 2026-11-18 14.16.11.excalidraw.md",
@@ -268,7 +284,6 @@
     "Letnik 1/Semester 1/Diskretne structure/Predavanje 5.5.excalidraw.md",
     "Excalidraw/Turingova koza.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Palm Guard.md",
-    "Letnik 1/Semester 1/Uvod v rač/Vaja 6.excalidraw.md",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files/Predikatni_dsvsp-predavanja_4.pdf",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files",
     "Letnik 1/Semester 1/Diskretne structure/Misc. Files/dsvsp-predavanja_mnozice.pdf",

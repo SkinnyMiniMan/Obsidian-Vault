@@ -85,3 +85,29 @@ for t1, t2 in pairwise(pot)
 set().union({3, 4, 5}, {4, 5, 6}, {7, 8, 9}) #naredi unijo teh množic
 set().union(*t) #unija množic iz seznama
 ```
+
+```run-python
+def fibo(n):
+	a = b = 1
+	for _ in range(n):
+		print("Zdaj bom jildal", a)
+		yield a
+		print("Gremo naprej")
+		a, b = b, a + b
+
+t = fibo(10)
+for x in t:
+	print("V zanki izpiše", x)
+	
+next(t)
+```
+fibo(n) je generator, vsakič ko pride do yielda se ustavi in gre nazaj v program ki ga kliče, ko pa ga vprašamo za naslednji element gre naprej delat od kjer se je ustavil.
+t tukaj gre samo do 10, z next(t) gremo en element naprej, ampak samo do 10
+
+t = fibo(10) ne naredi seznama, le vsakic ko ga poklicemo nam takrat izracuna in izpise naslednji element
+
+Lahko naredimo tudi neskončni generator z while True
+
+count v itertools šteje, lahko naredimo count(2) in šteje od 2 naprej
+
+zip je tudi generator

@@ -81,4 +81,7 @@ any(x % 2 == 0 for x in t)
 ```python
 #namesto zip(s, s[1:])
 for t1, t2 in pairwise(pot)
+
+set().union({3, 4, 5}, {4, 5, 6}, {7, 8, 9}) #naredi unijo teh množic
+set().union(*t) #unija množic iz seznama
 ```
